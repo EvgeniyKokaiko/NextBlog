@@ -1,5 +1,5 @@
-###GitHub Repo: https://github.com/EvgeniyKokaiko/NextBlogs
-###Author: Evgeniy Kokaiko
+##GitHub Repo: https://github.com/EvgeniyKokaiko/NextBlogs
+##Author: Evgeniy Kokaiko
 ***
 ## Getting Started
 
@@ -27,5 +27,5 @@ localhost:3000
 **And then you'll see app interface with which you can interact.**
 ***
 
-## Deploy on Vercel
-###Link: https://next-blog-seven-rho.vercel.app/
+## Deployed on Vercel
+##Link: https://nextblog-woad.vercel.app/
