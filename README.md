@@ -1,5 +1,7 @@
-##GitHub Repo: https://github.com/EvgeniyKokaiko/NextBlogs
+##GitHub Repo: https://github.com/EvgeniyKokaiko/NextBlog
+
 ##Author: Evgeniy Kokaiko
+
 ***
 ## Getting Started
 
